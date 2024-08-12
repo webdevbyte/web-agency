@@ -5,6 +5,7 @@ export default function Home() {
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
      
       <h1>web azency</h1>
+      <p>Welcome to Web Agency!</p>
     </main>
   );
 }
